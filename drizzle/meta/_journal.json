@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1787601726472,
+      "tag": "0000_safe_wild_pack",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1787602794218,
+      "tag": "0001_nostalgic_wendell_vaughn",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1787603019221,
+      "tag": "0002_cultured_kulan_gath",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1787603532022,
+      "tag": "0003_good_stellaris",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1787605872595,
+      "tag": "0004_old_the_stranger",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1787643834245,
+      "tag": "0005_furry_stardust",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1787649024236,
+      "tag": "0006_wandering_taskmaster",
+      "breakpoints": true
+    }
+  ]
+}

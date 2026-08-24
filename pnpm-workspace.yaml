@@ -1,0 +1,7 @@
+overrides:
+  "@esbuild-kit/core-utils>esbuild": 0.25.12
+allowBuilds:
+  "@prisma/client": false
+  better-sqlite3: false
+  esbuild: true
+  unrs-resolver: true
